@@ -21,7 +21,7 @@ Features
 
 Examples
 --------
-* Add :ref:`phx_glr_auto_examples_parrot.py` example showing another example of
+* Add :ref:`sphx_glr_auto_examples_parrot.py` example showing another example of
   image-based coloring and masks.
 
 WordCloud 1.5.0
